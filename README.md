@@ -14,13 +14,13 @@
 ## 創意描述
 
 目前，GenAI 技術的應用多集中於文字和圖片生成領域，而在醫療領域的發展相對有限。
-<img src="./Smart%20Healthcare%20Clinical%20Decision%20Support%20System_table.png?token=GHSAT0AAAAAACX2DUMH3ZPTFZZHI6MSQV24ZX3SYTQ"><br>
+<img src="./picture/Smart%20Healthcare%20Clinical%20Decision%20Support%20System_table.png?token=GHSAT0AAAAAACX2DUMH3ZPTFZZHI6MSQV24ZX3SYTQ"><br>
 本系統的創新點，在於將 GenAI 技術引入人體生理訊號分析領域，藉由結合 LLM（大型語言模型）技術，不僅可以判斷疾病的發作情況，還能生成更完整的診斷報告，為醫師提供更具體的病因分析和建議，進而提升臨床決策的輔助效果。
 
 ## 系統功能簡介
 
 本系統欲提供給院方醫師作為整合性的資訊管理與分析系統，因此在使用設計上開發出以下功能：
-<img src="./Smart%20Healthcare%20Clinical%20Decision%20Support%20System_uml.png?token=GHSAT0AAAAAACX2DUMGWFPVWR5SPMUENCA6ZX3S5KA">
+<img src="./picture/Smart%20Healthcare%20Clinical%20Decision%20Support%20System_uml.png?token=GHSAT0AAAAAACX2DUMGWFPVWR5SPMUENCA6ZX3S5KA">
 - **多使用者登入**：支持多位醫師在同一設備上使用，無需準備多台設備，並支持快速登入與切換功能。
 - **資訊管理系統**：提供資料儲存與歸檔功能，方便管理多日累積的診斷報告，並能快速查找和修改檔案。
 - **跨平台兼容性**：系統可在不同平台和設備上運行，不受限於單一作業系統，提升使用靈活性。
